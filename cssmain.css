@@ -1,0 +1,47 @@
+body {
+  background-image: url("aset/image/home.png");
+  background-size:cover;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-size:cover;
+}
+
+#buttonfit .buttonlanding{
+  
+  background-color: #53514d; 
+  border: none;
+  color: white;
+  padding: 25px 90px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px; 
+  border-radius: 10px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: relative;
+  top: 415px;
+  left: 1060px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+
+
+#footer{
+  padding: 0em 0 0em 0;
+  background-color:"";
+  text-align: center;
+}
+.copyright{
+  color: rgba(0, 0, 0, 0.5);
+			font-size: 0.9em;
+			
+		  padding: 0;
+			position: absolute;
+      top: 525px;
+      left: 1130px;
+      
+
+	}
+
+		

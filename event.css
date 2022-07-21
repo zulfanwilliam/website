@@ -1,0 +1,42 @@
+/* NAV */
+
+#nav {
+    
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:#fff;
+    
+    
+  }
+  
+  #brand{
+    float: left;
+  }
+  
+  #tombol{
+    margin-right: 150px;
+  }
+  
+  
+  .container{
+    text-align: center;
+  }
+  
+  #img{
+    
+    width: 160px;
+    margin: 10px 10px;
+  
+  }
+  
+  #icon-nav{
+    height: 75px;
+    
+  }
+  #icon-nav:hover {
+    background-color: #fdebd7;
+    
+  }
+  
